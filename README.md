@@ -1,4 +1,6 @@
-\# Git Actions Practice
+ 
+# Git Actions Practice
 
 This project is for practicing Git operations.
 
+ 
