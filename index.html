@@ -13,14 +13,14 @@
     >
       Ravitej Arjun Kakhandaki....
     </marquee>
-
-    <h1><span id="hi"></span>Ravitej..</h1>
+    <span id="hi"></span>
+    <h1 style="color: brown">Ravitej..</h1>
     <button type="submit" id="button">Click..</button>
     <script>
       document.getElementById("button").addEventListener("click", () => {
         const h = document.getElementById("hi");
         h.textContent = "Hello...! ";
-        h.style.color = "brown";
+        h.style.color = "white";
         document.body.style.backgroundColor = "black";
       });
     </script>
